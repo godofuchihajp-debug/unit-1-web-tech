@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Table</title>
+</head>
+<body>
+    <table border="1" align="center">
+        <caption><b>Student Details</b></caption>
+        <tr>
+            <th rowspan="2">Roll No</th>
+            <th colspan="2">Name</th>
+        </tr>
+        <tr>
+            <th>First</th>
+            <th>Last</th>
+        </tr>
+        <tr align="center">
+            <td>1</td>
+            <td>Rahul</td>
+            <td>Sharma</td>
+        </tr>
+    </table>
+</body>
+</html>

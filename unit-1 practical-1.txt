@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Basic HTML Page</title>
+</head>
+<body>
+    <h1>Welcome to HTML</h1>
+    <h2>Introduction</h2>
+
+    <p>
+        HTML stands for <b>HyperText Markup Language</b>.
+        It is used to create <i>web pages</i>.
+    </p>
+
+    <p>
+        <u>Formatting Tags</u> include <b>bold</b>,
+        <i>italic</i>, <u>underline</u>,
+        <mark>highlight</mark>, and <small>small text</small>.
+    </p>
+</body>
+</html>
